@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<math.h> /math fuction
+#include<math.h> //math fuction
 void main() 
 {
       int side,area;
