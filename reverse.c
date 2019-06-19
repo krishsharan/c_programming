@@ -10,6 +10,6 @@ int main(void)
 	 rev=(rev*10)+rem;
 	 num/=10;
 	}
-	printf("\sum of digit:%d",rev);
+	printf("sum of digit:%d",rev);
 	return 0;
 }
